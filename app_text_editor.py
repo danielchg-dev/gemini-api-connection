@@ -19,7 +19,7 @@ try:
         el cargo Docente por Consultor en el siguiente texto:
 
         'Leandro es un Docente con amplia experiencia en el campo de la educación.
-        Ha trabajado en el sector prvado y público, como gerente de proyectos.'
+        Ha trabajado en el sector privado y público, como gerente de proyectos.'
         """
     )
 except Exception as e:
